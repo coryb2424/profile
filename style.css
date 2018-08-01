@@ -57,6 +57,10 @@ td > p {
   border: 4px gray;
 }
 
+.extra-margin {
+  margin-top: 20px;
+}
+
 .btn-green {
   background-color: #314E4F;
   color: white;
